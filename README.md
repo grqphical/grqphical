@@ -19,5 +19,5 @@ I am a student from Canada who codes in his spare time. After school, I want to 
 
 ### ⚒️ Languages and Tools:
 <div>
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40">
 </div>
