@@ -5,7 +5,7 @@
     grqphical
 </h1>
 
-## 🧑🏻‍💻 About Me :
+### 🧑🏻‍💻 About Me :
 
 I am a student from Canada who codes in his spare time. After school, I want to become a backend developer
  
@@ -17,7 +17,7 @@ I am a student from Canada who codes in his spare time. After school, I want to 
 
 ---
 
-## ⚒️ Languages and Tools :
+### ⚒️ Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="60" height="60">
@@ -36,7 +36,7 @@ I am a student from Canada who codes in his spare time. After school, I want to 
 
 ---
 
-## My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grqphical&theme=dark&background=000000)](https://git.io/streak-stats)
 
