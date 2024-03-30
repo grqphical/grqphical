@@ -7,7 +7,7 @@
 
 ### 🧑🏻‍💻 About Me :
 
-I am a student from Canada who codes in his spare time. After school, I want to become a backend developer
+I am a student from Canada who codes in his spare time. After I finish school, I want to become either a backend developer or work in the field of AI
  
 - 📚 Currently a student
 
