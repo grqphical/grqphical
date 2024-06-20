@@ -11,7 +11,7 @@ I am a student from Canada who codes in his spare time. After I finish school, I
  
 - 📚 Currently a student
 
-- 🔭 Exploring containerization with Docker and Linux
+- 🔭 Exploring AI, Neural Networks, and LLM
 
 - ⚡ In my free time I play video games, practice martial arts and animate with Blender
 
