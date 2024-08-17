@@ -11,7 +11,7 @@ I am a student from Canada who codes in his spare time. After I finish school, I
  
 - 📚 Currently a student
 
-- 🔭 Exploring AI, Neural Networks, and LLM
+- 🔭 Exploring AI, Neural Networks, and LLMs
 
 - ⚡ In my free time I play video games, practice martial arts and animate with Blender
 
@@ -20,7 +20,6 @@ I am a student from Canada who codes in his spare time. After I finish school, I
 ### ⚒️ Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="60" height="60">
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="60" height="60">
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="60" height="60">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60">
@@ -28,7 +27,7 @@ I am a student from Canada who codes in his spare time. After I finish school, I
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="60" height="60">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="60" height="60">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="60" height="60">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="Neovim" alt="Neovim" width="60" height="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="60" height="60">
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" title="Godot" alt="Godot" width="60" height="60">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60">
 
