@@ -1,6 +1,3 @@
-<p align="center"><img src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" width="100"/></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=grqphicale&style=flat-square&color=blue" alt=""/></p>
-
 <h1 align="center">
     grqphical
 </h1>
