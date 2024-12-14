@@ -29,5 +29,3 @@ I am a student from British Columbia, Canada who codes in his spare time. After 
 
 ### My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grqphical&theme=dark&background=000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grqphical&layout=compact&theme=vision-friendly-dark)
