@@ -8,7 +8,7 @@ I am a student from British Columbia, Canada who codes in his spare time. After 
  
 - 📚 Currently a student
 
-- 🔭 Exploring Machine Learning, Neural Networks, and LLMs
+- 🔭 Exploring Java + Spring Boot
 - ⚡ In my free time I play video games, practice martial arts and watch hockey (Go Canucks Go)
 
 ---
@@ -17,6 +17,7 @@ I am a student from British Columbia, Canada who codes in his spare time. After 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![image](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
