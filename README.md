@@ -26,7 +26,3 @@ I am a student from British Columbia, Canada who codes in his spare time. After 
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![image](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
 
----
-
-### My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grqphical&theme=dark&background=000000)
