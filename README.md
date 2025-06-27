@@ -8,7 +8,6 @@ I am a student from British Columbia, Canada who codes in his spare time. After 
  
 - 📚 Currently a student
 
-- 🔭 Exploring Java + Spring Boot
 - ⚡ In my free time I play video games, practice martial arts and watch hockey (Go Canucks Go)
 
 ---
