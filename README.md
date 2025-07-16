@@ -6,7 +6,7 @@
 
 I am a student from British Columbia, Canada who codes in his spare time. After I finish school, I want to become either a backend developer or work in the field of AI
  
-- 📚 Currently a student
+- 📚 Currently a student at Simon Fraser University studying Computer Science
 
 - ⚡ In my free time I play video games, practice martial arts and watch hockey (Go Canucks Go)
 
