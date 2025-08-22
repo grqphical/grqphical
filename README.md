@@ -1,25 +1,9 @@
 <h1 align="center">
-    grqphical
+    Nathan Jacobson (grqphical)
 </h1>
 
-### 🧑🏻‍💻 About Me :
+### About Me
 
-I am a student from British Columbia, Canada who codes in his spare time. After I finish school, I want to become either a backend developer or work in the field of AI
- 
-- 📚 Currently a student at Simon Fraser University studying Computer Science
+I am a student from British Columbia, Canada currently pursing a Bachelor of Computing Science at Simon Fraser University. I've been programming in my free time since 2020 and have used a variety of different languages and frameworks such as `Lua`, `Python`, `C#`, `C++`, `HTML/CSS/JS`, and `Golang`. I was the programmer for a robotics team that participated in VEX VRC robotics tournaments using `C++` to program our robots to compete in games that mimiced various sports such as disc golf. Our team ended up placing 42nd in the province (out of 1000+ teams).
 
-- ⚡ In my free time I play video games, practice martial arts and watch hockey (Go Canucks Go)
-
----
-
-### ⚒️ Languages, Tools, and Software I use:
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-![image](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![image](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
-
+I mostly program in `Golang` and `Python` as those are the two languages I have the most experience with
